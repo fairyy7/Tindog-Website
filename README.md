@@ -1,2 +1,0 @@
-# Tindog-Website
-HTML CSS &amp; BOOTSTRAP RESPONSIVE WEBSITE
